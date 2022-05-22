@@ -10,7 +10,7 @@
   
 
 - 🌱 Travail sur un Bot Discord
-  
+     https://discord.gg/QYjKzqYTuh
 
 - ❓᲼Envie de me parler ? Discord : Meek's#1369  
   
