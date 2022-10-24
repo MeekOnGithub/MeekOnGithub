@@ -2,8 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&color=F7F7F7&lines=Je+m'appelle+Meek;J'aime+la+confiture;%E2%98%9D%E2%9C%8C%F0%9F%92%A7%E2%9D%84%E2%98%9C%E2%98%BC+%E2%9C%8B%F0%9F%92%A7+%E2%98%9F%E2%98%9C%E2%98%BC%E2%98%9C)](https://git.io/typing-svg)</div>  
   
 
 - 🔭 Travail sur Mod FNF  
