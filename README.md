@@ -7,13 +7,10 @@
 - 🔭 Développeur : Java (En cours d'apprentissage), Python (Maitrise plutôt bien), JS (En cours d'appentissage), Haxe (Maitrise un peu)
   
 
-- 🌱 Création du serveur : Oeki 
-
 
 - ❓᲼Envie de me parler ? Discord : Meek#1234
 
 
-- ⚡ Cherche bon développeur Java 
   
 
 <br/>  
