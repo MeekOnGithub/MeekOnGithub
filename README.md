@@ -1,82 +1,24 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-  
+![image](https://user-images.githubusercontent.com/89902968/230765208-cfae69f1-59ce-4070-9902-1835fe5a7562.png)
 
-- 🔭 Développeur : Java (En cours d'apprentissage), Python (Maitrise plutôt bien), JS (En cours d'appentissage), Haxe (Maitrise un peu)
-  
+# ![image](https://user-images.githubusercontent.com/89902968/230766037-911bc3dd-338d-47f3-9d9f-b843bea5c291.png)
+I'm a developer with 3 years of experience (still begginer), big minecraft players and a very good players at brawlhalla ! 
+
+# ![image](https://user-images.githubusercontent.com/89902968/230766020-c075b2d9-251e-487d-9a9a-9a33dbfef5b5.png)
 
 
-- ❓᲼Envie de me parler ? Discord : Meek#1234
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,go,haxe,haxeflixel,html,js,linux,md,nodejs,ps,py" />
+  </a>
+</p>
+
+_Feel free to check out my repositories_
 
 
-  
+** **
 
-<br/>  
+# ![image](https://user-images.githubusercontent.com/89902968/230766130-6e3d1af5-3178-474b-a789-16296288102a.png)
 
+I created a unique **Discord bot** using Python that not only performs all the functions of a typical bot but also introduces new commands exclusive to my bot. One of its standout features is an achievement system. 
 
-## Skillz
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MeekOnGithub" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Zaidoroxlevrai" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ll9qgskoqten18n4g3wpcsras&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/paypal.me/zaidoroxlevrai" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+The bot is available in French 🥖.
