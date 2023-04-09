@@ -14,6 +14,10 @@ I'm a developer with 3 years of experience (still begginer), big minecraft playe
 
 _Feel free to check out my repositories_
 
+# ![image](https://user-images.githubusercontent.com/89902968/230766198-6d9998b8-a61c-41ca-9242-27aa15e35bc7.png)
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/724005731228975154)](https://discord.com/users/724005731228975154)
 
 ** **
 
@@ -21,4 +25,6 @@ _Feel free to check out my repositories_
 
 I created a unique **Discord bot** using Python that not only performs all the functions of a typical bot but also introduces new commands exclusive to my bot. One of its standout features is an achievement system. 
 
-The bot is available in French 🥖.
+The bot is available in French 🥖. 
+
+[Invite the bot !](https://discord.com/api/oauth2/authorize?client_id=1043460329641877604&permissions=8&scope=bot%20applications.commands)
