@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/89902968/230765208-cfae69f1-59ce-4070-9902-1835fe5a7562.png)
 
 # ![image](https://user-images.githubusercontent.com/89902968/230766037-911bc3dd-338d-47f3-9d9f-b843bea5c291.png)
-I'm a developer with 3 years of experience (still begginer), big minecraft players and a very good players at brawlhalla ! 
+I'm a developer with 3 years of experience (still begginer), big minecraft players and a very good player at brawlhalla ! 
 
 # ![image](https://user-images.githubusercontent.com/89902968/230766020-c075b2d9-251e-487d-9a9a-9a33dbfef5b5.png)
 
