@@ -32,4 +32,4 @@ I created a unique **Discord bot** using Python that not only performs all the f
 
 The bot is available in French 🥖. 
 
-[Invite the bot !](https://discord.com/api/oauth2/authorize?client_id=1043460329641877604&permissions=8&scope=bot%20applications.commands)
+Website Avaible Soon...
