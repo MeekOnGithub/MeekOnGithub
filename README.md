@@ -6,11 +6,16 @@ I'm a developer with 3 years of experience (still begginer), big minecraft playe
 # ![image](https://user-images.githubusercontent.com/89902968/230766020-c075b2d9-251e-487d-9a9a-9a33dbfef5b5.png)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,go,haxe,haxeflixel,html,js,linux,md,nodejs,ps,py" />
-  </a>
-</p>
+## Programming Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=bash,haxe,haxeflixel,html,md,py,java" />
+</div>
+
+## Tools and Services
+<div>
+  <img src="https://skillicons.dev/icons?i=cloudflare,css,discord,bots,linux,ps" />
+</div>
+
 
 _Feel free to check out my repositories_
 
